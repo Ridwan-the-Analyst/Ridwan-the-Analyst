@@ -1,21 +1,30 @@
-### Hi there, I'm Ridwan! 👋
+# Hi there, I'm Ridwan Ibrahim 👋
 
-I'm a **Data Analyst** based in **Lagos, Nigeria**, with over 7 years of experience in **Data Analysis and BI Development**. I specialize in tools like **Excel, SQL, Power BI, Tableau, R and Python** to extract insights and drive business decisions.
+I’m a passionate and detail-oriented **Data Analyst** based in **Texas, United States**. I specialize in transforming complex data into actionable insights, helping businesses make data-driven decisions. 
 
-- 🔭 I’m currently working as an **Data Analyst at Digital Bananas**.
-- 📚 I'm currently learning **advanced concepts in machine learning and AI, focusing on practical applications and model development**.
-- ⚡ In my free time, I **create tutorial videos, teach data analysis, and work on industry-related projects**.
+## 🛠️ Tools & Technologies:
+- **Data Visualization**: Power BI
+- **Data Analysis**: Python, Excel
+- **Database Management**: SQL
+- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Seaborn
+- **Others**: Git, Jupyter Notebooks, Tableau (if you use it)
 
-### 💡 What I Do:
-- 📊 **Business Intelligence**: Developing dashboards and reports for data-driven decision-making.
-- 🏥 **Data Analytics & Machine Learning:**: Developing data-driven insights, building KPI reports, and leveraging machine learning to support decision-making.
-- 🎓 **Training & Mentorship**: Teaching data analytics to aspiring professionals.
-- 📈 **Freelance Projects**: Helping businesses optimize their data strategy.
+## 💼 What I do:
+- Analyzing and visualizing data to uncover patterns and trends.
+- Creating interactive dashboards and reports in **Power BI** and **Excel**.
+- Writing complex **SQL queries** to retrieve and manipulate data.
+- Building data models and automating tasks with **Python**.
+- Delivering insights to help businesses improve performance and strategy.
 
-### 📫 Connect with Me:
-- 🌐 [LinkedIn](www.linkedin.com/in/ridwan--ibrahim)
-- 📺 [YouTube](http://www.youtube.com/@DataSageAcademy)
-- 📝 [Datasage Academy](ridwan-ibrahim.netlify.app)
-- ✉️ [Email](search4ridwan@gmail.com)
+## 🔧 Some of My Recent Projects:
+- **[Project Name]** - A brief description of what you built and its impact.
+- **[Project Name]** - A brief description of another project, maybe with a link to your repo.
+- **[Project Name]** - Another project, focusing on any specific skills you've worked with (Power BI, Python, etc.).
 
-Let's connect and explore the world of data together! 🚀
+## 🚀 Let's Connect:
+- [LinkedIn](your-linkedin-profile)
+- [Twitter](your-twitter-profile)
+- [Email](mailto:your-email@example.com)
+- [Portfolio](link-to-your-portfolio-or-personal-site)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about data analytics! 😊
