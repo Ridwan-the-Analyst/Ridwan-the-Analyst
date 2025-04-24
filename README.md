@@ -4,7 +4,7 @@
 
 # Hi there, I’m Ridwan 👋
 
-**Data Analyst** | Nigeria 🇳🇬
+**Data Analyst** at Digital Bananas Technology | Nigeria 🇳🇬
 
 I help aspiring analysts turn raw data into actionable insights using Excel, SQL, Power BI, Tableau, R, and Python. Over the last several years, I’ve taught **300+ students** to launch their careers in data analysis through hands‑on tutorials and video courses.
 
@@ -24,13 +24,13 @@ I help aspiring analysts turn raw data into actionable insights using Excel, SQL
 
 ## 🎓 Highlights
 
-- 💼 **Current Role:** Analytics Consultant at Massachusetts General Hospital (MGH)  
+- 💼 **Current Role:** Data Analyst at Digital Bananas Technology  
 - 👩‍🎓 **Students Trained:** 300+ emerging data analysts  
-- 🎥 **Video Courses:**  
-  - Excel for Data Analysis  
-  - SQL Fundamentals  
-  - Power BI Dashboards  
-  - Python for Data Analysis  
+- 🎥 **Video Courses on Udemy:**  
+  - [SQL for Data Analysis](https://www.udemy.com/course/sql-for-data-analysis)  
+  - [Excel for Data Analysis](https://www.udemy.com/course/excel-for-data-analysis)  
+  - [Python for Data Analysis](https://www.udemy.com/course/python-for-data-analysis)  
+  - [Tableau for Data Analysis](https://www.udemy.com/course/tableau-for-data-analysis)  
 
 ---
 
@@ -43,15 +43,6 @@ I help aspiring analysts turn raw data into actionable insights using Excel, SQL
 | [CustomerChurn-Tableau](https://github.com/Ridwan/CustomerChurn-Tableau) | Churn prediction dashboard in Tableau with R integration        | Tableau, R                        |
 | [Covid19-DataViz-PowerBI](https://github.com/Ridwan/Covid19-DataViz-PowerBI) | COVID-19 trends & forecast dashboards                           | Power BI                          |
 | [Web-Scraping-Projects](https://github.com/Ridwan/Web-Scraping-Projects) | Samples of web scraping & data cleaning in Python               | Python (BeautifulSoup, requests)  |
-
----
-
-## 📺 Watch My Courses
-
-- 🎓 [Excel for Data Analysis](https://youtube.com/…)  
-- 🎓 [SQL Fundamentals](https://youtube.com/…)  
-- 🎓 [Power BI Dashboards](https://youtube.com/…)  
-- 🎓 [Python for Data Analysis](https://youtube.com/…)  
 
 ---
 
