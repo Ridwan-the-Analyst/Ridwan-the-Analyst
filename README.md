@@ -1,30 +1,74 @@
-# Hi there, I'm Ridwan Ibrahim 👋
+<p align="center">
+  <a href="https://github.com/Ridwan"><img src="https://github-readme-stats.vercel.app/api?username=Ridwan&show_icons=true&theme=tokyonight" alt="Ridwan’s GitHub Stats" /></a>
+</p>
 
-I’m a passionate and detail-oriented **Data Analyst** based in **Texas, United States**. I specialize in transforming complex data into actionable insights, helping businesses make data-driven decisions. 
+# Hi there, I’m Ridwan 👋
 
-## 🛠️ Tools & Technologies:
-- **Data Visualization**: Power BI
-- **Data Analysis**: Python, Excel
-- **Database Management**: SQL
-- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Seaborn
-- **Others**: Git, Jupyter Notebooks, Tableau (if you use it)
+**Data Analyst** | Nigeria 🇳🇬
 
-## 💼 What I do:
-- Analyzing and visualizing data to uncover patterns and trends.
-- Creating interactive dashboards and reports in **Power BI** and **Excel**.
-- Writing complex **SQL queries** to retrieve and manipulate data.
-- Building data models and automating tasks with **Python**.
-- Delivering insights to help businesses improve performance and strategy.
+I help aspiring analysts turn raw data into actionable insights using Excel, SQL, Power BI, Tableau, R, and Python. Over the last several years, I’ve taught **300+ students** to launch their careers in data analysis through hands‑on tutorials and video courses.
 
-## 🔧 Some of My Recent Projects:
-- **[Project Name]** - A brief description of what you built and its impact.
-- **[Project Name]** - A brief description of another project, maybe with a link to your repo.
-- **[Project Name]** - Another project, focusing on any specific skills you've worked with (Power BI, Python, etc.).
+---
 
-## 🚀 Let's Connect:
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Email](mailto:your-email@example.com)
-- [Portfolio](link-to-your-portfolio-or-personal-site)
+## 📚 What I Do
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about data analytics! 😊
+- **Data Analysis & BI Development:**  
+  – Excel • SQL • Power BI • Tableau  
+- **Statistical Computing & Scripting:**  
+  – R • Python (pandas, NumPy, matplotlib, scikit‑learn)  
+- **Teaching & Content Creation:**  
+  – Designed & delivered interactive courses on Excel, SQL, Power BI, and Python  
+  – Created video tutorials guiding learners from beginner to advanced  
+
+---
+
+## 🎓 Highlights
+
+- 💼 **Current Role:** Analytics Consultant at Massachusetts General Hospital (MGH)  
+- 👩‍🎓 **Students Trained:** 300+ emerging data analysts  
+- 🎥 **Video Courses:**  
+  - Excel for Data Analysis  
+  - SQL Fundamentals  
+  - Power BI Dashboards  
+  - Python for Data Analysis  
+
+---
+
+## 🚀 Projects & Repositories
+
+| Project                                        | Description                                                     | Tech Stack                        |
+|-----------------------------------------------|-----------------------------------------------------------------|-----------------------------------|
+| [SalesDashboard-Excel](https://github.com/Ridwan/SalesDashboard-Excel) | Interactive sales dashboard built purely in Excel (Power Query & PivotTables) | Excel, VBA                        |
+| [RetailAnalytics-SQL](https://github.com/Ridwan/RetailAnalytics-SQL)   | End‑to‑end retail analytics pipeline using SQL & Python         | SQL, Python (pandas, matplotlib)  |
+| [CustomerChurn-Tableau](https://github.com/Ridwan/CustomerChurn-Tableau) | Churn prediction dashboard in Tableau with R integration        | Tableau, R                        |
+| [Covid19-DataViz-PowerBI](https://github.com/Ridwan/Covid19-DataViz-PowerBI) | COVID-19 trends & forecast dashboards                           | Power BI                          |
+| [Web-Scraping-Projects](https://github.com/Ridwan/Web-Scraping-Projects) | Samples of web scraping & data cleaning in Python               | Python (BeautifulSoup, requests)  |
+
+---
+
+## 📺 Watch My Courses
+
+- 🎓 [Excel for Data Analysis](https://youtube.com/…)  
+- 🎓 [SQL Fundamentals](https://youtube.com/…)  
+- 🎓 [Power BI Dashboards](https://youtube.com/…)  
+- 🎓 [Python for Data Analysis](https://youtube.com/…)  
+
+---
+
+## 📫 Connect with Me
+
+<div>
+  <a href="https://linkedin.com/in/Ridwan" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" /></a>
+  <a href="https://twitter.com/Ridwan" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" /></a>
+  <a href="mailto:ridwan@example.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/maildotru.svg" /></a>
+</div>
+
+---
+
+> “Data is a precious thing and will last longer than the systems themselves.”  
+> – Tim Berners‑Lee
+
+---
+
+_Thanks for visiting!_  
+Feel free to explore my repos and reach out if you’d like to collaborate.
