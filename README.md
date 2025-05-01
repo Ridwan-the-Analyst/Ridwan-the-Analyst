@@ -38,7 +38,7 @@ I help aspiring analysts turn raw data into actionable insights using Excel, SQL
 
 | Project                                        | Description                                                     | Tech Stack                        |
 |-----------------------------------------------|-----------------------------------------------------------------|-----------------------------------|
-| [SalesDashboard-Excel](https://github.com/Ridwan/SalesDashboard-Excel) | Interactive sales dashboard built purely in Excel (Power Query & PivotTables) | Excel, VBA                        |
+| [SalesDashboard-Excel](https://github.com/Ridwan-the-Analyst/Adidas-US-Sales-Analysis) | Interactive sales dashboard built purely in Excel (Power Query & PivotTables) | Excel                        |
 | [RetailAnalytics-SQL](https://github.com/Ridwan/RetailAnalytics-SQL)   | End‑to‑end retail analytics pipeline using SQL & Python         | SQL, Python (pandas, matplotlib)  |
 | [CustomerChurn-Tableau](https://github.com/Ridwan/CustomerChurn-Tableau) | Churn prediction dashboard in Tableau with R integration        | Tableau, R                        |
 | [Covid19-DataViz-PowerBI](https://github.com/Ridwan/Covid19-DataViz-PowerBI) | COVID-19 trends & forecast dashboards                           | Power BI                          |
