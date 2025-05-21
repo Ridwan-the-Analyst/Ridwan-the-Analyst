@@ -8,7 +8,7 @@
 
 **Data Analyst** at Digital Bananas Technology · Nigeria 🇳🇬
 
-I help aspiring analysts turn raw data into actionable insights using **Excel, SQL, Power BI, Tableau, R**, and **Python**. Over the past few years, I’ve trained **300+ students** through hands-on tutorials and video courses to kickstart their data analysis careers.
+I help aspiring analysts turn raw data into actionable insights using **Excel, SQL, Power BI, Tableau, R**, and **Python**. Over the past few years, I’ve trained **400+ students** through hands-on tutorials and video courses to kickstart their data analysis careers.
 
 ---
 
