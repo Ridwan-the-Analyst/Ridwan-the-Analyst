@@ -1,110 +1,74 @@
-# Hi there 👋 I'm a Data Analyst based in Lagos Nigeria
+<p align="center">
+  <a href="https://github.com/Ridwan-the-Analyst">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ridwan-the-Analyst&show_icons=true&theme=tokyonight" alt="Ridwan's GitHub Stats" />
+  </a>
+</p>
 
-Welcome to my GitHub profile!  
-I’m a **Data Analyst** who enjoys turning raw data into meaningful insights that support better decision-making.
+# 👋 Hi there, I’m Ridwan
 
----
+**Data Analyst** at Digital Bananas Technology · Nigeria 🇳🇬
 
-## 👨‍💻 About Me
-- 📊 Passionate about data cleaning, analysis, and visualization  
-- 🔍 Interested in discovering patterns, trends, and insights from data  
-- 📈 Focused on data-driven problem solving and storytelling  
-
----
-
-## 🛠️ Tools & Skills
-- **Excel** – Data cleaning, formulas, pivot tables, dashboards  
-- **SQL** – Data querying, joins, subqueries, aggregations  
-- **Power BI** – Interactive dashboards, data modeling, DAX basics  
+I help aspiring analysts turn raw data into actionable insights using **Excel, SQL, Power BI, Tableau, R**, and **Python**. Over the past few years, I’ve trained **400+ students** through hands-on tutorials and video courses to kickstart their data analysis careers.
 
 ---
 
-## 📂 Projects
-Here are some areas I work on (check my repositories 👇):
-- Sales & business performance analysis  
-- Dashboard creation and reporting  
-- Data cleaning and transformation  
-- SQL-based data exploration  
+## 📊 What I Do
+
+- **Data Analysis & BI Development**  
+  Excel · SQL · Power BI · Tableau  
+- **Statistical Computing & Scripting**  
+  R · Python (pandas, NumPy, matplotlib, scikit-learn)  
+- **Teaching & Content Creation**  
+  - Designed and delivered interactive courses on Excel, SQL, Power BI, and Python  
+  - Created video tutorials guiding learners from beginner to advanced levels  
 
 ---
 
-## 📫 Let’s Connect
-- 💼 GitHub: [Your GitHub Profile Link]
-- 🌐 LinkedIn: [# Hi there 👋 I'm a Data Analyst
+## 🎓 Career Highlights
 
-Welcome to my GitHub profile!  
-I’m a **Data Analyst** who enjoys turning raw data into meaningful insights that support better decision-making.
-
----
-
-## 👨‍💻 About Me
-- 📊 Passionate about data cleaning, analysis, and visualization  
-- 🔍 Interested in discovering patterns, trends, and insights from data  
-- 📈 Focused on data-driven problem solving and storytelling  
+- 💼 **Current Role:** Data Analyst at Digital Bananas Technology  
+- 👨‍🏫 **Students Trained:** 300+ emerging data professionals  
+- 🎥 **Courses on Udemy:**  
+  - [SQL for Data Analysis](https://www.udemy.com/course/sql-for-data-analysis)  
+  - [Excel for Data Analysis](https://www.udemy.com/course/excel-for-data-analysis)  
+  - [Python for Data Analysis](https://www.udemy.com/course/python-for-data-analysis)  
+  - [Tableau for Data Analysis](https://www.udemy.com/course/tableau-for-data-analysis)  
 
 ---
 
-## 🛠️ Tools & Skills
-- **Excel** – Data cleaning, formulas, pivot tables, dashboards  
-- **SQL** – Data querying, joins, subqueries, aggregations  
-- **Power BI** – Interactive dashboards, data modeling, DAX basics  
+## 🚀 Featured Projects
 
----
-
-## 📂 Projects
-Here are some areas I work on (check my repositories 👇):
-- Sales & business performance analysis  
-- Dashboard creation and reporting  
-- Data cleaning and transformation  
-- SQL-based data exploration  
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Adidas US Sales Analysis](https://github.com/Ridwan-the-Analyst/Adidas-US-Sales-Analysis) | Interactive sales dashboard using Power Query & PivotTables | Excel |
+| [UK Road Accident Analysis](https://github.com/Ridwan-the-Analyst/UK_Road_Accident_Analysis-) | End-to-end accident analysis using SQL & Power BI | SQL Server, Power BI |
+| [Customer Churn Analysis](https://github.com/Ridwan/CustomerChurn-Tableau) | Churn prediction dashboard with R integration | Tableau, R |
+| [COVID-19 Data Visualization](https://github.com/Ridwan/Covid19-DataViz-PowerBI) | Global trends and forecast dashboard | Power BI |
+| [Web Scraping Projects](https://github.com/Ridwan/Web-Scraping-Projects) | Web scraping & data cleaning samples | Python (BeautifulSoup, requests) |
 
 ---
 
 ## 📫 Let’s Connect
-- 💼 GitHub: [Your GitHub Profile Link]
-- 🌐 LinkedIn: # Hi there 👋 I'm a Data Analyst
 
-Welcome to my GitHub profile!  
-I’m a **Data Analyst** who enjoys turning raw data into meaningful insights that support better decision-making.
-
----
-
-## 👨‍💻 About Me
-- 📊 Passionate about data cleaning, analysis, and visualization  
-- 🔍 Interested in discovering patterns, trends, and insights from data  
-- 📈 Focused on data-driven problem solving and storytelling  
-
----
-
-## 🛠️ Tools & Skills
-- **Excel** – Data cleaning, formulas, pivot tables, dashboards  
-- **SQL** – Data querying, joins, subqueries, aggregations  
-- **Power BI** – Interactive dashboards, data modeling, DAX basics  
+<p align="left">
+  <a href="https://linkedin.com/in/Ridwan" target="_blank">
+    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/Ridwan" target="_blank">
+    <img alt="Twitter" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" />
+  </a>
+  &nbsp;
+  <a href="mailto:ridwan@example.com">
+    <img alt="Email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" />
+  </a>
+</p>
 
 ---
 
-## 📂 Projects
-Here are some areas I work on (check my repositories 👇):
-- Sales & business performance analysis  
-- Dashboard creation and reporting  
-- Data cleaning and transformation  
-- SQL-based data exploration  
+> _“Data is a precious thing and will last longer than the systems themselves.”_  
+> – Tim Berners-Lee
 
 ---
 
-## 📫 Let’s Connect
-- 💼 GitHub: https://github.com/Ridwan-the-Analyst
-- 🌐 LinkedIn: http://www.linkedin.com/in/ridwan--ibrahim
----
-
-> *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
-
-
----
-
-> *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
-]
-
----
-
-> *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
+_Thanks for stopping by! Feel free to explore my repos and reach out if you’d like to collaborate._
